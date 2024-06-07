@@ -1,0 +1,10 @@
+TabPy
+
+To set-up TabPy.
+
+Run pip install tabpy in CMD. Requires path to have been set when installing python.
+
+then CMD > TabPy
+
+In Tableau - Help > manage extensions > localhost :9004
+
